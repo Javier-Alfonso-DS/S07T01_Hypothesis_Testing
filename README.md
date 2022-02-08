@@ -12,5 +12,6 @@ Take a data set you like and select an attribute from the data set. Calculate th
 ### - Exercise 2
 Continue with the data set you like and select two other attributes from the data set. Calculate the p-values and say whether they disprove the null hypothesis by taking an alpha of 5%.
 
-## Level 3 - Exercise 3
+## Level 3 
+### - Exercise 3
 Continue with the data set you like and select three attributes from the data set. Calculate the p-value and say whether it disproves the null hypothesis by taking an alpha of 5%.
